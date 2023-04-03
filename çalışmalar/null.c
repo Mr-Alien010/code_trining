@@ -15,3 +15,5 @@ int main()
     char a = '\0';
     denem(a);
 }
+
+değişiklik
