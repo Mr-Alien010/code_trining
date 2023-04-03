@@ -16,4 +16,4 @@ int main()
     denem(a);
 }
 
-değişiklik
+değiş
