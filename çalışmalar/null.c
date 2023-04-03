@@ -15,7 +15,3 @@ int main()
     char a = '\0';
     denem(a);
 }
-
-
-
-NULL != '\0'
